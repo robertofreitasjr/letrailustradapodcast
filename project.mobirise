@@ -44,8 +44,8 @@
       "opacity": "85",
       "text": "Este site utiliza cookies, para lhe proporcionar uma melhor experiência de navegação. Você pode desativar nas configurações do seu navegador.",
       "customDialogSelector": false,
-      "textButton": "ACEITO",
-      "colorButton": "undefined",
+      "textButton": "ENTENDI",
+      "colorButton": "#c4bc3b",
       "opacityOverlay": "80"
     },
     "versionFirst": "4.7.5",
